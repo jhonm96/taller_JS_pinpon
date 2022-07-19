@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(243, 230, 194);
+}
+canvas{
+    background-color: rgb(92, 136, 88);
+    border:solid ;
+    border-color: rgb(3, 39, 8);
+}
+
